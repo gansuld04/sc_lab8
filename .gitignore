@@ -1,0 +1,22 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# =====================================================================
+# АЮУЛГҮЙ БАЙДАЛ: database.properties-ийг Git-д оруулж болохгүй!
+# Учир нь: нууц үг, database URL зэрэг нууц мэдээлэл агуулдаг.
+# =====================================================================
+src/main/resources/database.properties
+
+# H2 database files (автоматаар үүсдэг)
+data/
+"bin/" 
+".settings/" 
+".classpath" 
+".project" 
