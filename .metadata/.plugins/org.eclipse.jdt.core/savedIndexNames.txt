@@ -1,0 +1,14 @@
+INDEX VERSION 1.134+C:\Users\erden\workspace_sc_lab4\.metadata\.plugins\org.eclipse.jdt.core
+3791593957.index
+512713311.index
+4258558563.index
+433733640.index
+1067329979.index
+3318793293.index
+3929578214.index
+265575250.index
+1200522136.index
+211864285.index
+1016311468.index
+1105875573.index
+1865797976.index
